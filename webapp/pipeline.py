@@ -20,8 +20,8 @@ time.sleep(2)
 alert_box = driver.switch_to.alert
 alert_box.accept()
 
-mac_lele = "988389e7101c"
-mac_lulu = "c8c7503c8d9e"
+mac_lele = ""
+mac_lulu = ""
 
 driver.get("http://192.168.0.1/fw-macfilter.htm")
 time.sleep(5)
